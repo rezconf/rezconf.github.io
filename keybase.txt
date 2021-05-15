@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/rezchess
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://rezconf.github.io
+  * I am rezchess (https://keybase.io/rezchess) on keybase.
+  * I have a public key ASADs6ws4nt-43BrUkOWeu8pYDzgpiPpcWJLBLT9HL37wQo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012003b3ac2ce27b7ee3706b5243967aef29603ce0a623e971624b04b4fd1cbdfbc10a",
+      "host": "keybase.io",
+      "kid": "012003b3ac2ce27b7ee3706b5243967aef29603ce0a623e971624b04b4fd1cbdfbc10a",
+      "uid": "cb81af184cebf60634ab58fd8e96e119",
+      "username": "rezchess"
+    },
+    "merkle_root": {
+      "ctime": 1621079823,
+      "hash": "3184ca12aa47c21ac2e4b31008dffe164ff1cf62a445f58491f437f3c9d280ffc9d197b0279c65862cb69ad8d149959e1f5e260e7670da31de3e066f94d5f760",
+      "hash_meta": "a569d46f7c08d4fc2ed2c0947f67e19d8de7c61ef497d065ef65638ff1d30ffe",
+      "seqno": 19949919
+    },
+    "service": {
+      "entropy": "6WzLlxIQ2OiDBMTr0EMO4iWR",
+      "hostname": "rezconf.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.6.1"
+  },
+  "ctime": 1621079861,
+  "expire_in": 504576000,
+  "prev": "b89440c724efe800095e31bdbf271f17d7e46a02427e47180cc8d396bd24b5db",
+  "seqno": 13,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgA7OsLOJ7fuNwa1JDlnrvKWA84KYj6XFiSwS0/Ry9+8EKp3BheWxvYWTESpcCDcQguJRAxyTv6AAJXjG9vycfF9fkagJCfkcYDMjTlr0ktdvEINgZGfcLQ1j8/nCoKi+e5JKPEhD53k6s+Ly2lrwXz4ycAgHCo3NpZ8RADIKXLgNSWxqzq3KQ+F47S/DtmA0GJnfCc72VQin6ZJPsV4VsBGTaMRw4jjDJfX/gvrZ1kocaR7WeYfwQ5jQMBqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIEaVtfICxNqsKVEYGChvT5BVNGS+Wh6heFI5/vzI4ELFo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/rezchess
+
+==================================================================
